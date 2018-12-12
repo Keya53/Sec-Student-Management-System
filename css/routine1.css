@@ -1,0 +1,25 @@
+table,th,tr{
+    border: 1px solid #727476;
+    padding: 15px;
+    
+   
+}
+table{
+   margin-top: 85px;
+   margin-left:  230px;
+   
+     background-color: #9E8D95;
+        
+}
+body{
+  
+    font-family: Abril Fatface;
+    color: #EFD7D1;
+}
+table th:hover{
+    background-color: #fcf8e3;
+    color: orangered;
+    transition: .5s;
+    
+    
+}

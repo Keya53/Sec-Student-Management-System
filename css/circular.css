@@ -1,0 +1,18 @@
+*{margin: 0;padding: 0}
+body{font-family: arial;font-size: 16px;line-height: 22px;}
+.fix{overflow: hidden}
+.main{margin: 0 auto;width: 960px;display: block;background:#666;}
+.First{text-align: center;height: 209px;padding: 40px;background:url("img/girlinexam.jpg")no-repeat;
+background-size: cover;background-attachment: fixed;background-position: center center;
+}
+.First h1{margin-top: 5px;font-size: 25px;color: #FF4A4A;text-shadow:1px 2px 1px black;}
+.First h2{font-size: 16px;color:  #FF4A4A;text-shadow:1px 2px 1px black;}
+.First p{font-size: 16px;color:  #FF4A4A;text-shadow:1px 2px 1px black;}
+.college{margin-top: 10px;text-align: center;color: white}
+.college p{margin-bottom: 15px;margin-bottom: 10px}
+.table{ text-align: center;margin-top: 25px;margin-bottom: 10px;}
+.group{width:24%;float: left ;border: 1px solid black}
+/*table td{border-collapse: collapse;border:1px solid black;}*/
+.footer{background: #4C3D2E;
+    color: white;
+    text-align: center;}

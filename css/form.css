@@ -1,0 +1,15 @@
+*{margin: 0;padding: 0}
+body{
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+}
+.container{
+    color: black;
+    width: 900px;
+
+}
+.first_part{
+    text-align: center;
+}
