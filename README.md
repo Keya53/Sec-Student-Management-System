@@ -1,1 +1,3 @@
-# Sec-Student-Management-System
+Login
+mail-pori@gmail.com
+password-123456
